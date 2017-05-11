@@ -1,0 +1,23 @@
+h1 {
+	text-align: center;
+}
+h2 {
+	border-style: solid;
+	border-color: yellow;
+	background-color: yellow;
+}
+body {
+	background-color: lightblue;
+}
+table {
+	border-style: solid;
+	padding: 1px;
+}
+th {
+	border-style: solid;
+	padding: 1px;
+}
+td {
+	border-style: solid;
+	padding: 1px;
+}
